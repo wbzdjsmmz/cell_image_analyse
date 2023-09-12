@@ -14,4 +14,4 @@ registered_spots:the spot image after alignment
 registration:DAPI-stained tif images from 4 rounds of imaging and their corresponding png images (in order to check whether the feature point detection is up to the standard), three rounds of affine transformation matrix, DAPItif file after alignment, comparison chart of the alignment results, and corresponding charts of the three rounds of feature point detection.
 segmentation: contains cell profile image data SNC.tif, final segmentation result seg_result.tif
 spot_detection_result: point_result in the result folder is the final result.
- ![image](https://github.com/wbzdjsmmz/cell_image_analyse/raw/master/flowchart.png)
+ ![image](https://github.com/wbzdjsmmz/cell_image_analyse/raw/main/flow_chart.png)
