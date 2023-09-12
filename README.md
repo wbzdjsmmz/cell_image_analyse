@@ -5,7 +5,9 @@ spot_detection.py: contains all the code in the spot detection process.
 draw.py: contains the file for drawing the clustering results.
 
 data2 folder:
+
 1.tif raw data
+
 2.tif raw data
 3.tif raw data
 4.tif raw data
